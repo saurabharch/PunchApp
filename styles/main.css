@@ -425,6 +425,19 @@ background-image: url(https://tcrf.net/images/6/64/Ds-cone.gif);
 }
 
 
+#bonusDiv{
+ float:right;
+ width: 10%;
+
+}
+
+#icon{
+padding-top:70px;
+  width: 70%;
+  height: 70%;
+  top:1px;
+}
+
 
 #bonus1, #bonus2,#bonus3,#bonus4{
   width: 20%;
