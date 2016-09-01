@@ -7,6 +7,12 @@ app.use(express.static(__dirname));
 
 
 
-var server = app.listen(1337, function() {
-	console.log('training room is ready at 1337');
-});
+var startServer = function () {
+
+    var PORT = process.env.PORT || 1337;
+
+    server.listen(PORT, function () {
+        console.log(chalk.blue('Server started on port', chalk.magenta(PORT)));
+    });
+
+};
