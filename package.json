@@ -1,7 +1,7 @@
 {
-  "name": "djjs",
+  "name": "PunchApp",
   "version": "1.0.0",
-  "description": "JS Motion Detection ===================",
+  "description": "JS Motion Detection punching app",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
