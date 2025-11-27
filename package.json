@@ -20,6 +20,6 @@
   "dependencies": {
     "angular": "^1.5.8",
     "express": "^4.13.3",
-    "sequelize": "^3.23.6"
+    "sequelize": "^6.6.5"
   }
 }
